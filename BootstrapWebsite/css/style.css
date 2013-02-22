@@ -1,0 +1,29 @@
+/*.body{
+	margin-top: 10px;
+}*/
+
+.box {
+	background-color: rgba(0,0,0,.25);
+	text-align: center;
+	padding: 3px;
+	margin-top: 10px;
+}
+
+/*.row {
+	top margin: 7px;
+}*/
+
+.hero-unit{
+	background-color: #57c0da;
+}
+.alert{
+	background-color:#57c0da;
+}
+/*.herobox{
+	background-color: aquamarine;
+}*/
+
+.email {
+	background-color:#57c0da;
+	text-align: center;
+}
