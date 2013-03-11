@@ -1,0 +1,66 @@
+body {
+ background: white;
+  font-size: 11px;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+#wrapper{
+	margin-top: 25px;
+}
+p {
+  /*border: 1px solid #666;*/
+}
+
+.grid_11{
+	height: 150px;
+	background:green;
+}
+.grid_5{
+	height:800px;
+	background: red;
+}
+.grid_3, .alpha {
+	height: 150px;
+	background:blue;
+}
+/*.grid_3, .prefix_1, .suffix_8{
+	height: 200px;
+	background: aquamarine;
+*/}
+
+.grid_4{
+	height:150px;
+	background:orange;
+}
+
+.grid_4{
+	height:150px;
+	background:purple;
+}
+.grid_3, .alpha, .pull{
+	height:500px;
+	background:gray;
+}
+
+
+.grid_8 .omega {
+	height: 50 px;
+	background: yellow;
+}
+
+.leftColumn > .grid_3 {
+	height: 500 px;
+	background: green;
+}
+
+
+
+
+
+
+
+
+
+
+

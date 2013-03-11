@@ -1,0 +1,35 @@
+body {
+  background: white;
+  color: #333;
+  font-size: 18px;
+  height: auto;
+  padding-bottom: 20px;}
+
+
+.grid_8 {
+	/*background: gray;*/
+}
+.grid_4 {
+	/*background-color: purple;*/
+	height:130px;
+	/*border:1px black;*/
+}
+.grid_5 {
+	/*background-color: green;*/
+	height: 300px;
+}
+.grid_3 {
+	/*background-color: blue;*/
+}
+/*.grid_3, .alpha, .omega {
+	background-color: red;*/
+	/*height: 200px;*/
+}
+
+
+
+
+
+
+
+
